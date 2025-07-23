@@ -1,7 +1,6 @@
 import { Carousel, initTWE } from "tw-elements";
 import { useEffect } from "react";
 import "./Home.css"
-// import banner_home from "../../assets/images/banner-home.png"
 
 const Home = () => {
   
@@ -19,10 +18,14 @@ const Home = () => {
         <p className="text-xl">Oferecemos treinamentos, análises de risco e consultoria completa 
         para manter sua equipe segura e sua empresa em conformidade com as normas regulamentadoras.
         </p>
-        <button className="btn">Solicitar Orçamento</button>
-        <button className="btn-white">
-          Conheça nossos serviços
-        </button>
+        <div className="flex items-center justify-center gap-4">
+          <button className="btn">
+            Solicitar Orçamento
+          </button>
+          <button className="btn-white">
+            Conheça nossos serviços
+          </button>
+        </div>
       </div>
     </div>
     // <div
