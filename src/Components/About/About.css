@@ -1,0 +1,14 @@
+.about h2 {
+    color: #212EA0;
+}
+
+.about-container{
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    padding: 20px;
+}
+
+.about-content{
+    max-width: 600px;
+}

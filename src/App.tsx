@@ -2,6 +2,7 @@ import Navbar from './Components/Navbar/Navbar'
 import Home from './Components/Home/Home'
 import Title from './Components/Title/Title'
 import Services from './Components/Services/Services'
+import About from './Components/About/About'
 
 function App() {
 
@@ -16,6 +17,7 @@ function App() {
           title='Serviços de Segurança do Trabalho'/>
           <Services/>
         </div>
+        <About/>
     </div>
   )
 }

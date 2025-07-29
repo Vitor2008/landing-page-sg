@@ -1,13 +1,11 @@
 .services {
     margin: 100px auto;
     width: 90%;
-    padding-bottom: 70px;
 }
 
 .services .card {
     width: 100%;
     border-left-color: var(--color-blue-600);
-    border-left-style: var(--tw-border-style);
     border-left-width: 4px;
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
     cursor: pointer;
