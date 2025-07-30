@@ -3,12 +3,18 @@
 }
 
 .about-container{
+    margin: 100px auto;
     display: flex;
-    justify-content: center;
-    gap: 40px;
-    padding: 20px;
+    align-items: center;
+    justify-content: space-between;
+    width: 90%;
+}
+
+.about-image {
+    flex-basis: 40%;
+    position: relative;
 }
 
 .about-content{
-    max-width: 600px;
+    flex-basis: 56%;
 }

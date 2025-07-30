@@ -6,7 +6,7 @@ import {
   faClipboardCheck,
   faFile,           
   faBookOpen,       
-  faStethoscope 
+  faStethoscope
 } from '@fortawesome/free-solid-svg-icons';
 
 const Services = () => {
