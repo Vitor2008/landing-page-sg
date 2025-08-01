@@ -74,6 +74,7 @@ button.btn-navbar:hover{
   border: 2px solid white;
 }
 
+
 /* ------ media query ---------*/
 @media (max-width: 1200px){
   .site-container{

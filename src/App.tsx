@@ -3,6 +3,8 @@ import Home from './Components/Home/Home'
 import Title from './Components/Title/Title'
 import Services from './Components/Services/Services'
 import About from './Components/About/About'
+import Benefits from './Components/Benefits/Benefits'
+import Contact from './Components/Contact/Contact'
 
 function App() {
 
@@ -18,6 +20,16 @@ function App() {
           <Services/>
         </div>
         <About/>
+        <div className='site-container'>
+          <Title subTitle='Investir em consultoria especializada traz 
+          retornos significativos para sua empresa e colaboradores'
+          title='Benefícios de ter uma Consultoria 
+          em Segurança do Trabalho' />
+          <Benefits/>
+          <Title subTitle='Solicite um orçamento personalizado para sua empresa' 
+          title='Entre em Contato' />
+          <Contact/>
+        </div>
     </div>
   )
 }
