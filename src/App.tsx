@@ -6,6 +6,7 @@ import About from './Components/About/About'
 import Benefits from './Components/Benefits/Benefits'
 import Contact from './Components/Contact/Contact'
 import Footer from './Components/Footer/Footer'
+import BtnContact from './Components/BtnContact/BtnContact'
 
 function App() {
 
@@ -32,6 +33,7 @@ function App() {
           <Contact/>
         </div>
         <Footer/>
+        <BtnContact/>
     </div>
   )
 }
