@@ -5,6 +5,7 @@ import Services from './Components/Services/Services'
 import About from './Components/About/About'
 import Benefits from './Components/Benefits/Benefits'
 import Contact from './Components/Contact/Contact'
+import Footer from './Components/Footer/Footer'
 
 function App() {
 
@@ -30,6 +31,7 @@ function App() {
           title='Entre em Contato' />
           <Contact/>
         </div>
+        <Footer/>
     </div>
   )
 }

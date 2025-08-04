@@ -22,3 +22,14 @@
 .about-content{
     flex-basis: 56%;
 }
+
+
+@media (max-width: 840px){
+    .about-container{
+        flex-direction: column-reverse;
+    }
+
+    .about-content{
+        margin-bottom: 15px;
+    }
+}

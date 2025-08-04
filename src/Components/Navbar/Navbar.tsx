@@ -27,7 +27,7 @@ const Navbar = () => {
       <ul className={mobileMenu ? '' : 'hide-mobile-menu'}>
         <li><Link to='home' smooth={true} offset={0} duration={500}>Home</Link></li>
         <li><Link to='services' smooth={true} offset={-360} duration={500}>Serviços</Link></li>
-        <li><Link to='about' smooth={true} offset={0} duration={500}>Sobre</Link></li>
+        <li><Link to='about' smooth={true} offset={-160} duration={500}>Sobre</Link></li>
         <li><Link to='contact' smooth={true} offset={-260} duration={500}>Contato</Link></li>
         <li><Link to='contact' smooth={true} offset={-260} duration={500}>
         <button className='btn-navbar'>

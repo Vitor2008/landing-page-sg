@@ -25,3 +25,14 @@
     margin: 10px auto 20px;
     line-height: 1.4;
 }
+
+
+@media (max-width: 840px){
+    .home {
+        background: linear-gradient(rgba(8,0,58,0.7), rgba(8,0,58,0.7)), url('../../assets/images/banner-home-mobile.png');
+    }
+
+    .home-text h1{
+        font-size: 2rem
+    }
+}
