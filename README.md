@@ -1,5 +1,6 @@
 # Landing Page - Segurança do Trabalho
-Portal de Pessoas Desaparecidas
+Landing Page de consultoria especializada em segurança do trabalho
+
 
 # Descrição do Projeto
 Este projeto é uma landing page desenvolvida com React, TypeScript e Vite, focada em consultoria especializada em segurança do trabalho. A aplicação apresenta informações sobre serviços oferecidos, benefícios da consultoria, treinamentos regulamentados, análise de riscos, além de canais de contato e integração com redes sociais. 
