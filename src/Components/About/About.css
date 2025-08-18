@@ -6,7 +6,7 @@
     color: #212EA0;
 }
 
-.about-container{
+.about-container {
     margin: 100px auto;
     display: flex;
     align-items: center;
@@ -19,17 +19,21 @@
     position: relative;
 }
 
-.about-content{
+.about-content {
     flex-basis: 56%;
 }
 
+.about-container .mx-auto {
+    margin: 0;
+}
 
-@media (max-width: 840px){
-    .about-container{
+
+@media (max-width: 840px) {
+    .about-container {
         flex-direction: column-reverse;
     }
 
-    .about-content{
+    .about-content {
         margin-bottom: 15px;
     }
 }
