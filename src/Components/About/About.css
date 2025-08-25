@@ -27,6 +27,10 @@
     margin: 0;
 }
 
+.about-content ul{
+    margin-top: 20px;
+}
+
 
 @media (max-width: 840px) {
     .about-container {
