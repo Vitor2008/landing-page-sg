@@ -38,11 +38,11 @@ const Footer = () => {
               <div className="space-y-2 text-gray-300">
                 <div className="flex items-center space-x-2">
                     <FontAwesomeIcon className='h-4 w-4 hover:text-blue-400 transition-colors' icon={faWhatsapp}></FontAwesomeIcon>
-                  <span>(65) 99999-9999</span>
+                  <span>(65) 9 9256-5297</span>
                 </div>
                 <div className="flex items-center space-x-2">
                   <FontAwesomeIcon className='h-4 w-4 hover:text-blue-400 transition-colors' icon={faEnvelope}></FontAwesomeIcon>
-                  <span>contato@email.com.br</span>
+                  <span>arthuroliveiratst22@gmail.com</span>
                 </div>
                 <div className="flex items-center space-x-2">
                     <FontAwesomeIcon className='h-4 w-4 hover:text-blue-400 transition-colors' icon={faLocation}></FontAwesomeIcon>
@@ -57,8 +57,7 @@ const Footer = () => {
                 <span className="text-xl font-bold">SafetyPro</span>
               </div>
               <p className="text-gray-300">
-                Consultoria especializada em segurança do trabalho, protegendo empresas e colaboradores há mais de 10
-                anos.
+                Consultoria especializada em segurança do trabalho, protegendo empresas e colaboradores.
               </p>
             </div>
             

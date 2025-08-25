@@ -14,8 +14,8 @@ const Contact = () => {
                 de segurança do trabalho. Entre em contato e solicite seu orçamento sem compromisso.
                 </p>
                 <ul>
-                    <li className='text-lg text-gray-600'><FontAwesomeIcon icon={faEnvelope} className='h-6 w-6 text-blue-600'></FontAwesomeIcon> contato@teste.com.br</li>
-                    <li className='text-lg text-gray-600'><FontAwesomeIcon icon={faWhatsapp} className='h-6 w-6 text-blue-600'></FontAwesomeIcon> 65 9 9999-9999</li>
+                    <li className='text-lg text-gray-600'><FontAwesomeIcon icon={faEnvelope} className='h-6 w-6 text-blue-600'></FontAwesomeIcon> arthuroliveiratst22@gmail.com</li>
+                    <li className='text-lg text-gray-600'><FontAwesomeIcon icon={faWhatsapp} className='h-6 w-6 text-blue-600'></FontAwesomeIcon> 65 9 9256-5297</li>
                     <li className='text-lg text-gray-600'><FontAwesomeIcon icon={faLocation} className='h-6 w-6 text-blue-600'></FontAwesomeIcon> Cuiabá - MT</li>
                 </ul>
             </div>
