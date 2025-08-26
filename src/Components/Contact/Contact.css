@@ -10,12 +10,12 @@
     flex-basis: 48%;
 }
 
-.contact-col h3{
+.contact-col h3 {
     color: var(--color-primary);
 }
 
 
-.contact-col p{
+.contact-col p {
     max-width: 450px;
     list-style: 0.3;
 }
@@ -41,23 +41,26 @@
     resize: none;
 }
 
-.contact-col span{
+.contact-col span {
     display: block;
-    margin: 20px 0;
+    margin: 10px 0;
+    text-align: center;
+    color: var(--color-primary);
+    font-weight: 600;
+    font-size: 18px;
 }
 
-.btn-form{
+.btn-form {
     width: 100%;
 }
 
-.btn-form:hover{
+.btn-form:hover {
     color: var(--color-primary);
     border: 2px solid var(--color-primary);
 }
 
-
 /* ------ media query ---------*/
-@media (max-width: 700px){
+@media (max-width: 700px) {
     .contact {
         display: block;
     }
