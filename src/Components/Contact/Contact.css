@@ -11,7 +11,7 @@
 }
 
 .contact-col h3{
-    color: #212EA0;
+    color: var(--color-primary);
 }
 
 

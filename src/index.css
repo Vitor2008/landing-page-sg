@@ -10,7 +10,8 @@
 }
 
 :root {
-  --color-primary: #212EA0;
+  --color-primary: #0e9d66;
+  --color-secondary: #d4eee5;
 }
 
 body{
@@ -74,6 +75,10 @@ button.btn-navbar:hover{
   border: 2px solid white;
 }
 
+
+.color-primary{
+  color: var(--color-primary);
+}
 
 /* ------ media query ---------*/
 @media (max-width: 1200px){

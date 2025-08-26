@@ -19,8 +19,8 @@ const Services = () => {
       <div className="card">
         <div className='p-4'>
           <div className="flex items-center gap-2">
-            <div className="p-2 bg-blue-100 rounded-lg">
-              <FontAwesomeIcon icon={faBullhorn} className="h-6 w-6 text-blue-600" />
+            <div className="p-2 bg-secondary rounded-lg">
+              <FontAwesomeIcon icon={faBullhorn} className="h-6 w-6 color-primary" />
             </div>
             <h2 className="text-xl font-bold">Palestras de Saúde e Segurança  do Trabalho</h2>
           </div>
@@ -36,8 +36,8 @@ const Services = () => {
       <div className="card">
         <div className='p-4'>
           <div className="flex items-center gap-2">
-            <div className="p-2 bg-blue-100 rounded-lg">
-              <FontAwesomeIcon icon={faCalendarWeek} className="h-6 w-6 text-blue-600" />
+            <div className="p-2 bg-secondary rounded-lg">
+              <FontAwesomeIcon icon={faCalendarWeek} className="h-6 w-6 color-primary" />
             </div>
             <h2 className="text-xl font-bold">Palestras da SIPAT</h2>
           </div>
@@ -52,8 +52,8 @@ const Services = () => {
       <div className="card">
         <div className='p-4'>
           <div className="flex items-center gap-2">
-            <div className="p-2 bg-blue-100 rounded-lg">
-              <FontAwesomeIcon icon={faStethoscope} className="h-6 w-6 text-blue-600" />
+            <div className="p-2 bg-secondary rounded-lg">
+              <FontAwesomeIcon icon={faStethoscope} className="h-6 w-6 color-primary" />
             </div>
             <h2 className="text-xl font-bold">Consultoria em Segurança Ocupacional</h2>
           </div>
@@ -69,8 +69,8 @@ const Services = () => {
       <div className="card">
         <div className='p-4'>
           <div className="flex items-center gap-2">
-            <div className="p-2 bg-blue-100 rounded-lg">
-              <FontAwesomeIcon icon={faHelmetSafety} className="h-6 w-6 text-blue-600" />
+            <div className="p-2 bg-secondary rounded-lg">
+              <FontAwesomeIcon icon={faHelmetSafety} className="h-6 w-6 color-primary" />
             </div>
             <h2 className="text-xl font-bold">Treinamento NR-6</h2>
           </div>
@@ -86,8 +86,8 @@ const Services = () => {
       <div className="card">
         <div className='p-4'>
           <div className="flex items-center gap-2">
-            <div className="p-2 bg-blue-100 rounded-lg">
-              <FontAwesomeIcon icon={faChargingStation} className="h-6 w-6 text-blue-600" />
+            <div className="p-2 bg-secondary rounded-lg">
+              <FontAwesomeIcon icon={faChargingStation} className="h-6 w-6 color-primary" />
             </div>
             <h2 className="text-xl font-bold">Treinamento NR-10</h2>
           </div>
@@ -103,8 +103,8 @@ const Services = () => {
       <div className="card">
         <div className='p-4'>
           <div className="flex items-center gap-2">
-            <div className="p-2 bg-blue-100 rounded-lg">
-              <FontAwesomeIcon icon={faUsers} className="h-6 w-6 text-blue-600" />
+            <div className="p-2 bg-secondary rounded-lg">
+              <FontAwesomeIcon icon={faUsers} className="h-6 w-6 color-primary" />
             </div>
             <h2 className="text-xl font-bold">Treinamento NR-35</h2>
           </div>
@@ -120,8 +120,8 @@ const Services = () => {
       <div className="card">
         <div className='p-4'>
           <div className="flex items-center gap-2">
-            <div className="p-2 bg-blue-100 rounded-lg">
-              <FontAwesomeIcon icon={faClipboardCheck} className="h-6 w-6 text-blue-600" />
+            <div className="p-2 bg-secondary rounded-lg">
+              <FontAwesomeIcon icon={faClipboardCheck} className="h-6 w-6 color-primary" />
             </div>
             <h2 className="text-xl font-bold">Análise de Riscos Ocupacionais</h2>
           </div>
@@ -137,8 +137,8 @@ const Services = () => {
       <div className="card">
         <div className='p-4'>
           <div className="flex items-center gap-2">
-            <div className="p-2 bg-blue-100 rounded-lg">
-              <FontAwesomeIcon icon={faFile} className="h-6 w-6 text-blue-600" />
+            <div className="p-2 bg-secondary rounded-lg">
+              <FontAwesomeIcon icon={faFile} className="h-6 w-6 color-primary" />
             </div>
             <h2 className="text-xl font-bold">Elaboração de PGR</h2>
           </div>
@@ -154,8 +154,8 @@ const Services = () => {
       <div className="card">
         <div className='p-4'>
           <div className="flex items-center gap-2">
-            <div className="p-2 bg-blue-100 rounded-lg">
-              <FontAwesomeIcon icon={faBookOpen} className="h-6 w-6 text-blue-600" />
+            <div className="p-2 bg-secondary rounded-lg">
+              <FontAwesomeIcon icon={faBookOpen} className="h-6 w-6 color-primary" />
             </div>
             <h2 className="text-xl font-bold">Elaboração de PCMSO</h2>
           </div>

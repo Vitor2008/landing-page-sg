@@ -1,5 +1,5 @@
 import './Footer.css'
-import logo from '../../assets/images/logo.png'
+import logo from '../../assets/images/logo-icon.png'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faLocation } from '@fortawesome/free-solid-svg-icons'
 import { faEnvelope  } from '@fortawesome/free-regular-svg-icons';
@@ -53,8 +53,8 @@ const Footer = () => {
 
             <div className="space-y-4">
               <div className="flex items-center space-x-2">
-                <img src={logo} alt='logo' className="h-8 w-8" />
-                <span className="text-xl font-bold">SafetyPro</span>
+                <img src={logo} alt='logo' width={65} />
+                <span className="text-xl font-bold color-primary">INOVASEG</span>
               </div>
               <p className="text-gray-300">
                 Consultoria especializada em segurança do trabalho, protegendo empresas e colaboradores.
@@ -64,7 +64,7 @@ const Footer = () => {
           </div>
 
           <div className="footer-copy text-center text-gray-300">
-            <p>&copy; {new Date().getFullYear()} SafetyPro. Todos os direitos reservados.</p>
+            <p>&copy; {new Date().getFullYear()} INOVASEG. Todos os direitos reservados.</p>
           </div>
         </div>
       </div>

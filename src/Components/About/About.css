@@ -3,7 +3,7 @@
 }
 
 .about h2 {
-    color: #212EA0;
+    color: var(--color-primary);
 }
 
 .about-container {

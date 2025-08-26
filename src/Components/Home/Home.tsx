@@ -13,7 +13,7 @@ const Home = () => {
     <div className="home site-container">
       <div className="home-text">
         <h1 className="font-bold text-white-800 leading-tight">
-          Proteja sua empresa com <span className="text-blue-600">consultoria especializada</span> em segurança do
+          Proteja sua empresa com <span>consultoria especializada</span> em segurança do
           trabalho
         </h1>
         <p className="text-xl">Oferecemos treinamentos, análises de risco e consultoria completa 
